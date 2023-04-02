@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>893571295807-9srmp2g87sp90hprhc4dnksuvjb03ph9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.893571295807-9srmp2g87sp90hprhc4dnksuvjb03ph9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB7LqurMbBpvwv7ubesKJnJEZVpR_G4OWk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>893571295807</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.brainyapps.ezeats</string>
+	<key>PROJECT_ID</key>
+	<string>walker-nicholas-8991e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>walker-nicholas-8991e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:893571295807:ios:c5e08204ba98a15d94268a</string>
+</dict>
+</plist>

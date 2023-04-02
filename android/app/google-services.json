@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "893571295807",
+    "project_id": "walker-nicholas-8991e",
+    "storage_bucket": "walker-nicholas-8991e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893571295807:android:4774ce0c09f4f9b594268a",
+        "android_client_info": {
+          "package_name": "com.brainyapps.ezeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893571295807-1snqpuf35d3t212etemnn74hmoj18kid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwJ8lY4dSdYGBEGfhLpLma9l02mohCb7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893571295807-1snqpuf35d3t212etemnn74hmoj18kid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893571295807-9srmp2g87sp90hprhc4dnksuvjb03ph9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brainyapps.ezeats"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
